@@ -120,7 +120,7 @@ document.getElementById("next-btn").addEventListener("click", () => {
 });
 
 document.getElementById('return').addEventListener('click', () => {
-    window.location.href = 'menu.html';
+    window.location.href = 'index.html';
 });
 
 // Inicializa o tabuleiro no nível 1

@@ -206,7 +206,7 @@ goBackButton.addEventListener("click", () => {
 });
 document.getElementById('go-back').addEventListener('click',()=>
     {
-    window.location.href = 'menu.html';
+    window.location.href = 'index.html';
 });
 // Inicializa o tabuleiro ao carregar a página
 initializeBoard();
